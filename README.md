@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vahid Davoodi</h1>
 
 <p align="center">
-  <a href="svahiddavoodi@gmail.com">📫 Contact Me</a>
+  <a href="mailto:svahiddavoodi@gmail.com">📫 Contact Me</a>
 </p>
 
 ---
