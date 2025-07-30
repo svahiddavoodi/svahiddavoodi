@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Vahid Davoodi</h1>
+<h1 align="center">👋 Hi there! Welcome to my GitHub profile.<br>I'm Vahid Davoodi</h1>
 
 <p align="center">
   <a href="mailto:svahiddavoodi@gmail.com">📫 Contact Me</a>
