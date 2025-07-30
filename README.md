@@ -1,6 +1,5 @@
-<h2 align="center">Hi there 👋, I'm Vahid Davoodi</h2>
-<h3 align="center">Welcome to my GitHub profile!</h3>
-<hr>
+<h1 align="center">Hi there 👋, I'm Vahid Davoodi</h1>
+
 
 <p align="center">
   <a href="mailto:svahiddavoodi@gmail.com">📫 Contact Me</a>
