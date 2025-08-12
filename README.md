@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 21 years old 
+- 🎓 21 y.o. from Isfahan
 - 💻 Passionate about Python, Django, and building web applications  
 - 🌱 Currently learning: Docker, Redis, and advanced backend architecture  
 - 🚀 Always up for new challenges and side-projects  
